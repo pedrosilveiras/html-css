@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+    background-color:rgb(205, 255,203);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(51, 0, 255);
+}
+h2{
+    color: rgb(255, 132, 243);
+}
+h1#Principal{
+    color: rgb(255, 0, 0);  
+}
+.abc{
+background-color: brown;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pedro{
+    background-color: brown;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.munique{
+    background-color: brown;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
