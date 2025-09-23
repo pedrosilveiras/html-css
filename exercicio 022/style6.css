@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{ 
+
+/*forma "maior"*/ 
+
+height: 100vh;
+background-color: black;
+background-image: url(Imagens/wallpaper002.jpg);
+background-position: center top;
+background-repeat:no-repeat;
+background-size:cover; 
+background-attachment: fixed;
+
+/*
+Shorthand dos background
+color> image > position > repeat > size* > attachment
+
+*: Em tese a shortand deveria funcionar, mas o size não funciona, então usar o shorthand sem o background-size, colocando o separado, como abaixo
+*/
+
+
+background:black url(Imagens/wallpaper002.jpg) center center no-repeat fixed;
+background-size: cover;
+
+}
+
+main{
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid darkgoldenrod;
+    border-radius: 15px;
+}
