@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    border: 1px dashed black;
+    height: 98vh;
+    background-image:url('https://images.seeklogo.com/logo-png/53/2/raposa-cruzeiro-mascotte-logo-png_seeklogo-536946.png');
+    background-size: 150px;
+    background-repeat:no-repeat;
+    background-position: center top;
+}
